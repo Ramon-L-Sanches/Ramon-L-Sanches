@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ramon-L-Sanches
+- 👀 I’m interested in learning and improving my skills in python
+- 🌱 I’m currently learning Data Cience in Fatec-Ourinhos / 1º semester 
+- 📫 How to reach me:
+- Discord> ramonsalazar69
